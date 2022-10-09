@@ -2,3 +2,7 @@
 	path = src/core
 	url = https://github.com/Octogen-dev/octogen.core.git
 	branch = main
+[submodule "src/readers/file"]
+	path = src/readers/file
+	url = https://github.com/Octogen-dev/octogen.readers.file.git
+	branch = main
