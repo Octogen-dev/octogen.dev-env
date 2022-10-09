@@ -1,8 +1,8 @@
-[submodule "src/core"]
-	path = src/core
+[submodule "octogen/src/core"]
+	path = octogen/src/core
 	url = https://github.com/Octogen-dev/octogen.core.git
 	branch = main
-[submodule "src/readers/file"]
-	path = src/readers/file
+[submodule "octogen/src/readers/file"]
+	path = octogen/src/readers/file
 	url = https://github.com/Octogen-dev/octogen.readers.file.git
 	branch = main
